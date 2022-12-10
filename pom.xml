@@ -7,7 +7,7 @@
 	<packaging>war</packaging>
 
 	<properties>
-		<spring.version>5.2.0.RELEASE</spring.version>
+		<spring.version>6.0.0</spring.version>
 		<hibernate.version>5.4.3.Final</hibernate.version>
 		<oracle.version>12.2.0.1</oracle.version>
 		<junit.version>4.10</junit.version>
